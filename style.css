@@ -36,8 +36,8 @@ box-sizing: border-box;
 }
 .minutes{
     position: absolute;
-    background-color: red;
-    width: 8px;
+    background-color: black;
+    width: 6px;
     height: 180px;
     top: 20px;
     left: 195px;
